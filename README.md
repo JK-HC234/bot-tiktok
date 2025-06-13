@@ -1,3 +1,9 @@
+
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+# Deja tu estrellita 🌟 
+
+> *👑* **El mejor Bot de WhatsApp** *⚔️*
 # 🤖 BOT-TIKTOK | WhatsApp Bot
 
 Bot de WhatsApp solo para descargar videos de TikTok sin marca de agua y con botones para elegir calidad (HD, SD o solo audio). Sin necesidad de API key.
@@ -25,8 +31,7 @@ Bot de WhatsApp solo para descargar videos de TikTok sin marca de agua y con bot
 ```bash
 pkg update && pkg upgrade
 pkg install git nodejs -y
-git clone https://github.com/usuario/bot-tiktok.git
-cd bot-tiktok
+git clone https://github.com/JK-HC234/bot-tiktok && cd JK-HC234
 npm install
 npm install @whiskeysockets/baileys
 node index.js
