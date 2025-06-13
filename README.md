@@ -9,10 +9,6 @@
 - Todo funciona **sin usar ninguna API key**
 - Se activa escribiendo:  
   ```
-  .tiktok [enlace]
-  
-
-
 
 ## 🛠️ INSTALACIÓN
 
