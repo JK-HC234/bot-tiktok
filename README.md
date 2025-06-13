@@ -32,7 +32,7 @@ pkg install ffmpeg -y
 ```
 # 4. github
 ```
-https://github.com/JK-HC234/bot-tiktok/tree/main && cd bot-tiktok
+git clone https://github.com/JK-HC234/bot-tiktok/tree/main && cd bot-tiktok
 ```
 # 5. Instala dependencias
 ```
