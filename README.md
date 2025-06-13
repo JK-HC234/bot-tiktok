@@ -18,4 +18,7 @@ node index.js
 rm -rf node_modules package-lock.json
 npm install
 ```
+```
+npm install @whiskeysockets/baileys@6.7.16
+```
 Escanea el código QR que aparece y ¡listo! Solo envía un enlace de TikTok para descargar.
