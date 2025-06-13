@@ -9,7 +9,8 @@
 - Todo funciona **sin usar ninguna API key**
 - Se activa escribiendo:  
   ```
-
+<details>
+<summary><b>📲  Ver comandos para Termux</b></summary>
 ## 🛠️ INSTALACIÓN
 
 # 0.termux
