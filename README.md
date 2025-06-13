@@ -29,16 +29,21 @@ Bot de WhatsApp solo para descargar videos de TikTok sin marca de agua y con bot
 ## 🚀 Instalación en Termux
 
 ```bash
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 pkg install git nodejs -y
-git clone https://github.com/JK-HC234/bot-tiktok && cd JK-HC234
+git clone https://github.com/JK-HC234/bot-tiktok
+cd bot-tiktok
 npm install
-npm install @whiskeysockets/baileys
+pkg update && pkg upgrade -y
+pkg install git nodejs -y
+git clone https://github.com/JK-HC234/bot-tiktok
+cd bot-tiktok
+npm install
+```
+```bash
+
 node index.js
 ```
-
----
-
 ## 🟢 Uso
 
 En WhatsApp escribe:
