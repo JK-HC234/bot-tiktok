@@ -15,8 +15,10 @@ npm install
 node index.js
 ```
 ```bash
+cd ~/bot-tiktok
 rm -rf node_modules package-lock.json
-npm install
+npm install @whiskeysockets/baileys@6.7.16
+
 ```
 ```
 npm install @whiskeysockets/baileys@6.7.16
