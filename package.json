@@ -1,14 +1,12 @@
 {
   "name": "bot-tiktok",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "version": "1.1.0",
+  "license": "MIT",
   "dependencies": {
-    "@hapi/boom": "^10.0.0",
-    "@whiskeysockets/baileys": "^6.6.0",
-    "node-fetch": "^2.6.7",
-    "pino": "^8.0.0"
+    "axios": "^1.7.7",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "correios-brasil": "^3.0.6",
+    "hercai": "^12.4.0",
+    "pino": "^9.5.0"
   }
 }
