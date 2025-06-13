@@ -16,22 +16,29 @@
 
 ## 🛠️ INSTALACIÓN
 
-1. **Clona o descarga el ZIP**:
-   ```bash
-   unzip tiktok-bot.zip
-   cd tiktok-bot
-   ```
+# 1. Actualiza paquetes
+pkg update && pkg upgrade -y
 
-2. **Instala dependencias**:
-   ```bash
-   npm install
-   ```
+# 2. Instala Node.js y Git
+pkg install nodejs git -y
 
-3. **Inicia el bot**:
-   ```bash
-   node index.js
-   ```
+# 3. Instala FFmpeg (para procesar video/audio si se requiere)
+pkg install ffmpeg -y
 
+# 4. Clona el repositorio (si lo tienes en GitHub)
+# 
+# cd
+
+unzip tiktok-bot-con-readme.zip
+cd tiktok-bot
+
+# 5. Instala dependencias
+npm install
+
+# 6. Ejecuta el bot
+node index.js
+
+   
 4. **Escanea el código QR** desde tu WhatsApp (te lo mostrará en consola).
 
 ---
