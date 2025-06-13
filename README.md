@@ -14,4 +14,8 @@ npm install
 ```bash
 node index.js
 ```
+```bash
+rm -rf node_modules package-lock.json
+npm install
+```
 Escanea el código QR que aparece y ¡listo! Solo envía un enlace de TikTok para descargar.
